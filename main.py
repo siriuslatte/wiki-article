@@ -7,8 +7,6 @@
 # Imports
 import customtkinter as ctk
 import tkinter as tk
-from PIL import ImageTk, Image
-import os
 
 import webbrowser as web
 import requests as req
